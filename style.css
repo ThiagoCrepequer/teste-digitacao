@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #A9C9FF;
+    background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+}
+
+.menu {
+    margin: auto;
+    margin-top: 15%;
+    width: 350px;
+    text-align: center;
+    border: 1px solid rgb(146, 140, 228);
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+p {
+    font-size: 3.5vh;
+    color: rgb(241, 241, 241);
+    transition: 1s;
+}
